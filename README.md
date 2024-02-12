@@ -1,4 +1,4 @@
-# Geli-mi-Sesli-Asistan-Lucy-
+# Gelismis-Sesli-Asistan-Lucy-
 Python dilinde gelişmiş sesli asistan projesi 
 
 1- Dostlar öncelikle api_key dosyasında bulunan your-api-key kısmına kendinizin https://ai.google.dev/ sitesinden alabileceği api key' i girmeniz gerekiyor bu sayede akıllı ol komutu ile yapay zekaya bağlanabilecek
