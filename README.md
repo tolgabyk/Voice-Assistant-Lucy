@@ -6,6 +6,6 @@ Python dilinde gelişmiş sesli asistan projesi
 2- Ses komutlarını verirken tane tane konuşmaya özen gösterin
 
 3- Python sürümünüzün 3.10 ve üzeri olmasında fayda var aksi takdirde sorunlar yaşayabilirsiniz
+
 4- Playsound kütüphanesinin 1.2.2 versiyonunu indirin yoksa hata alabilirsiniz
-5- Bunların dışında sorun yaşıyorsanız muhtemelen playsound veya speech_recognition kütüphaneleriyle ilgilidir. Hangi sürümlerin sorunsuz çalıştığına stackoverflow' dan bakın mutlaka
 
